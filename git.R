@@ -3,4 +3,5 @@ y<-rnorm(10)
 plot(y~x)
 #after plotting calculate a linear model
 m_1<-lm(y~x)
-summary(m_1)
+#verzweiflungsgrüße yay
+M <- 3444
