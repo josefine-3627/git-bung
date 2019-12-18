@@ -6,3 +6,6 @@ m_1<-lm(y~x)
 summary(m_1)
 
 x<-1+5
+
+y<-c("Wow ich benutze github")
+
